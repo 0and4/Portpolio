@@ -3,7 +3,7 @@
 > 안녕하세요. 웹 개발자를 꿈꾸는 이은비입니다!  
 > 아래 포트폴리오에 대한 자세한 설명은 <a href='https://tranquil-phalange-0f4.notion.site/Portfolio-37ccd5d0a6c34220b9f5f05bb88ead90'>노션</a>에서 더 확인할 수 있으니 참고바랍니다 :)
 
-## KDT Projects
+## 🪄 KDT Projects
 > ### 1. Broken Block
 > 웹 기반 벽돌깨기 게임 제작
 >  > - 개발 기간 : 2024.07.12. - 2024.07.22.
@@ -28,7 +28,7 @@
 >  > - Skill : **React**, Spring, MySQL, Github
 >  > - 시연 영상 https://youtu.be/FF8keqVIBd8
 
-## Team Projects
+## 🪄 Team Projects
 > ### 1. 다채로와
 > 다문화 가정 아이들과 방문교육 교사들을 위한 생성형 AI 활용 한국어 교육 웹 플랫폼
 >  > - 개발 기간 : 2024.04.03. - 2024.12.09.
@@ -63,7 +63,7 @@
 >  > - Language : **Java**
 >  > - Skill : Java Swing
 
-## Personal Project
+## 🪄 Personal Project
 > ### 1. Concert Moment Archive (콘모아)
 > 공연 관람 기록 애플리케이션
 >  > - 개발 기간 : 2023.06.01. - 2023.06.15.
