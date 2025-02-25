@@ -6,6 +6,16 @@
 ## 📞Contact
 - 이메일 : dmsql7544@naver.com
 
+## 🏫 Education
+* 국립공주대학교 컴퓨터공학부 소프트웨어전공 학사졸업
+* KDT 네트워크캠퍼스 (자바 스프링 리액트로 완성하는 클라우드 활용 풀스택 개발) 수료
+  * 최종 프로젝트 평가 - 최우수상(1등) 수상
+
+## 📝 Certification
+- 정보처리기사 (2024.06.18)
+- SQL개발자(SQLD) (2024.09.20)
+- 컴퓨터활용능력 1급 (2023.03.10)
+---
 ## 🪄 KDT Projects
 > ### 1. Broken Block
 > 웹 기반 벽돌깨기 게임 제작
@@ -90,16 +100,8 @@
 > 
 >  > - Language : **C++**
 >  > - Skill : Unity
+
 ---
-### 🏫 Education
-- 국립공주대학교 컴퓨터공학부 소프트웨어전공 학사졸업
-- KDT 네트워크캠퍼스 (자바 스프링 리액트로 완성하는 클라우드 활용 풀스택 개발) 수료
-
-### 📝 Certification
-- 정보처리기사 (2024.06.18)
-- SQL개발자(SQLD) (2024.09.20)
-- 컴퓨터활용능력 1급 (2023.03.10)
-
 ### 🖥️ See Also
 - 깃허브 : <a href="https://github.com/0and4" target='_blank'>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
 - 노션 : <a href='https://tranquil-phalange-0f4.notion.site/Portfolio-37ccd5d0a6c34220b9f5f05bb88ead90'>![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
