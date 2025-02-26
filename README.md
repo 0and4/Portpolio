@@ -1,7 +1,7 @@
 # 📒 이은비
 ## 🔊 Intro
 > 안녕하세요. 웹 애플리케이션 개발자 **이은비**의 포트폴리오입니다!  
-> 제 포트폴리오에 대한 자세한 설명은 <a href='https://tranquil-phalange-0f4.notion.site/Portfolio-37ccd5d0a6c34220b9f5f05bb88ead90'>노션</a>에서 더 확인할 수 있으니 참고바랍니다 :)
+> 제 포트폴리오에 대한 자세한 설명은 <a href='https://tranquil-phalange-0f4.notion.site/Portfolio-37ccd5d0a6c34220b9f5f05bb88ead90'>노션</a> 및 <a href='https://github.com/0and4/Portpolio/blob/main/%EC%9D%B4%EC%9D%80%EB%B9%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf'>파일</a>에서 더 확인할 수 있으니 참고바랍니다 :)
 
 ## 📞Contact
 - 이메일 : dmsql7544@naver.com
