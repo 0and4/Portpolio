@@ -16,6 +16,7 @@
 - SQL개발자(SQLD) (2024.09.20)
 - 컴퓨터활용능력 1급 (2023.03.10)
 ---
+# Project
 ## 🪄 KDT Projects
 > ### 1. Broken Block
 > 웹 기반 벽돌깨기 게임 제작
