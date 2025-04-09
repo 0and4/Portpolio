@@ -27,7 +27,7 @@
 >  >     * 개발 문서 작성(계획보고서, 결과보고서)
 > 
 >  > - Language : **HTML, CSS, Javascript**
->  > - 소스 코드 : https://github.com/0and4/kdt2024_1_6
+>  > - 소스 코드 및 관련 문서 : https://github.com/0and4/kdt2024_1_6
 
 > ### 2. Movie Kiosk
 > Java GUI를 활용한 영화관 키오스크 프로그램 제작
@@ -40,7 +40,7 @@
 > 
 >  > - Language : **Java**, SQL
 >  > - Skill : **JavaFX, Scene Builder**, JSON
->  > - 소스 코드 : https://github.com/0and4/kdt2024_2_4
+>  > - 소스 코드 및 관련 문서 : https://github.com/0and4/kdt2024_2_4
 
 > ### 3. Berrecommend
 > 인공지능 기반 플레이리스트 추천 및 음원 스트리밍 웹 플랫폼
@@ -54,7 +54,7 @@
 > 
 >  > - Language : Java, **Javascript, HTML, CSS**, SQL, Python
 >  > - Skill : **React**, RESTful API, Spring, MySQL, Github
->  > - 소스 코드 : https://github.com/0and4/kdt2024_3_4
+>  > - 소스 코드 및 관련 문서서 : https://github.com/0and4/kdt2024_3_4
 >  > - 시연 영상 : https://youtu.be/FF8keqVIBd8
 
 ## 🪄 Team Projects
